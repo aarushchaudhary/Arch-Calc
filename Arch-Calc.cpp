@@ -40,5 +40,6 @@ int main()
     cout << "Cube root of y:- " << cbrt(y) << endl;
     cout << " " << endl;
     cout << "Matrix:- https://matrix.to/#/!YLzMRKKygGfUtQZgQy:matrix.org?via=matrix.org" << endl;
+	system ("PAUSE");
 	return 0;
 }
