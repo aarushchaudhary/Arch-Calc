@@ -10,8 +10,6 @@ int main()
     cout << "           WELCOME TO ARCH-CALC    " << endl;
     cout << "               VERSION- 0.1        " << endl;
     cout << "           A SIMPLE CALCULATOR    " << endl;
-    cout << "           MADE BY LASTSCERET987   " << endl;
-    cout << "   GITHUB- https://github.com/LASTSECRET987   " << endl;
     cout << " " << endl;
     cout << "Enter 1st Number:- " << endl;
     cin >> x;
@@ -39,7 +37,6 @@ int main()
     cout << "Cube root of x:- " << cbrt(x) << endl;
     cout << "Cube root of y:- " << cbrt(y) << endl;
     cout << " " << endl;
-    cout << "Matrix:- https://matrix.to/#/!YLzMRKKygGfUtQZgQy:matrix.org?via=matrix.org" << endl;
 	system ("PAUSE");
 	return 0;
 }
